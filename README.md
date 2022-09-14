@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hola 👋</h1>
 
 - Mi nombre es **David Gutierrez,** comencé a estudiar programación de manera autodidacta a principios de 2021 :computer:
 - En 2022 ingresé en el bootcam de full-stack development de la academia **Henry,** y me gradué en septiembre del 2022. :clock2: :books: :date:
